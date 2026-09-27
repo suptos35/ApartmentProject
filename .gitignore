@@ -1,0 +1,48 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+apartment
+*.exe
+*.out
+*.app
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor directories
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Project Scratch and Media files
+Untitled*.txt
+Untitled*.odp
+Untitled Folder/
+*.mp4
+*.avi
+*.mov
+
+# Ignore screenshots unless explicitly tracked
+# If you want to keep gallery images, use git add -f image.png
+screenshot_*.png
